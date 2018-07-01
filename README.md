@@ -13,4 +13,6 @@ c0:f3:2d:3e:88:ee	N/A
 ```
 
 ## Installation
-``` go get github/ritewhose/ouilookup```
+In addition to [setting up your Go environment](https://golang.org/doc/install)...
+
+``` go get github.com/ritewhose/ouilookup```
