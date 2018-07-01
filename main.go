@@ -1,5 +1,5 @@
-// Package ouilookup provides a command line interface for looking up the manufacturer
-// of a device by its MAC address's Organizational Unit Identifer.
+// Package ouilookup provides a command line tool for looking up the manufacturer
+// of a device by its MAC address's Organizationally Unique Identifer (OUI).
 package main
 
 import (
